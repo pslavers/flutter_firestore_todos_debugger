@@ -1,6 +1,6 @@
 # flutter_firestore_todos_debugger
 
-A one of felangel/flutter_firestore_todos which will be used to illustrate and
+A clone of felangel/flutter_firestore_todos which will be used to illustrate and
 demonstrate problems with the dart/flutter debugger.
 
 The intention is to work mainly with JetBrains IntelligJ 
